@@ -30,7 +30,8 @@
 ### 📫 **How to Reach Me:**  
 - 🌍 **LinkedIn:** [Frankline Ondieki](https://www.linkedin.com/in/frankline-ondieki-39a61828a/)  
 - 📩 **Email:** [ondiekifrank021@gmail.com](mailto:ondiekifrank021@gmail.com)  
-- 📝 **Portfolio (Coming Soon!)**  
+- 📝 **[My Portfolio](https://github.com/OndiekiFrank/portfolio)** – Explore my DevOps, Data Science, and Analytics projects!  
+
 
 ---
 
