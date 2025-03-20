@@ -1,10 +1,13 @@
 ### 🚀 Data Scientist | Machine Learning | AI | Business Intelligence | DevOps Engineer | Big Data | Data Engineer  
 
-💡 **Former DevOps Engineer @ KCB Group | Passionate about Data Science, AI, and Automation**  
+💡 **Former DevOps Engineer | Passionate about Data Science, AI, and Automation**  
 📊 **Economics & Statistics with IT Graduate | Open to Opportunities in AI, ML, BI & Cloud**  
 
 ---
-
+## 🔭 **Professional Experience:**  
+- **Business Intelligence Analyst** at **Absa Bank**  
+- **DevOps Engineer** at **KCB Group**
+  
 ### 🔭 **Currently Exploring:**  
 - **Data Science & Machine Learning** 🤖 *(Supervised/Unsupervised ML, NLP, LLMs, Deep Learning)*  
 - **Business Intelligence & Analytics** 📊 *(Power BI, Tableau, SQL, Data Visualization, ETL)*  
