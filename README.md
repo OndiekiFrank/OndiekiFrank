@@ -1,79 +1,114 @@
-# 🚀 DevOps Engineer | Junior ML Engineer | MLOps | Data Science | Cloud | Analytics  
+# Frankline Ondieki Ombachi
+### AI Security Researcher | Machine Learning Engineer | Nairobi, Kenya
 
-💡 **DevOps & ML Engineer @ Belfor Tech Consultants | Passionate about Automation, Cloud Infrastructure & AI**  
-📊 **Economics & Statistics with IT Graduate | Open to Global Opportunities in DevOps, MLOps, and ML Engineering**  
-
----
-
-## 🔧 **Professional Experience**  
-- **DevOps Engineer & Junior ML Engineer** at **Belfor Tech Consultants** *(2024 – Present)*  
-- **Business Intelligence Analyst Intern** at **Absa Bank Kenya** *(2023)*  
-- **Accounts Assistant** at **Amagoro Club** *(2022)*  
+[![SSRN](https://img.shields.io/badge/SSRN-6734225-blue.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6734225)
+[![ACM ICAIF 2026](https://img.shields.io/badge/ACM%20ICAIF-2026%20Under%20Review-orange.svg)](https://icaif2026.org)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3483--0025-green.svg)](https://orcid.org/0009-0008-3483-0025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-frankline--ondieki--39a61828a-blue.svg)](https://www.linkedin.com/in/frankline-ondieki-39a61828a/)
 
 ---
 
-## 🌱 **Currently Working On**  
-- **End-to-End DevOps Projects**: CI/CD with Jenkins, Docker & Kubernetes  
-- **ML Engineering**: Supporting Senior ML Engineers in data preparation, model training & deployment  
-- **MLOps**: Automating model deployment using AWS, Ansible & MLflow  
-- **Cloud Provisioning**: Building scalable infrastructure with AWS EC2, S3, Lambda, Terraform  
-- **Data Engineering**: Automating ETL pipelines and orchestration using Python & Airflow  
+## Who I Am
+
+I am an AI security researcher and machine learning engineer specialising in adversarial AI security — specifically the protection of AI systems deployed in regulated financial environments.
+
+I published the first formal threat model for adversarial attacks on RAG-based AML agents, demonstrating that an adversary can collapse an AI compliance system's accuracy from 91.9% to 1.4% using 50 injected documents — through entirely legitimate pathways — with zero anomalous log signatures.
+
+I designed the **Memory Hygiene Layer (MHL)** as a defense: 100% adversarial detection, 0% false quarantine, 22.6ms p99 latency on CPU hardware — no model retraining required.
 
 ---
 
-## ⚙️ **Key Skills & Tools**  
+## Featured Research
 
-### 🔹 DevOps & Infrastructure  
-Jenkins · Docker · Kubernetes · Ansible · GitHub Actions · Bash · Terraform  
+### 🔴 Poisoning the Compliance Mind
+**Adversarial Memory Injection Attacks on RAG-Based AML Agents**
 
-### 🔹 ML Engineering & Data Science  
-Python (Pandas, NumPy, Scikit-learn, TensorFlow) · FastAPI · MLflow · Jupyter  
+[![SSRN](https://img.shields.io/badge/Read%20on-SSRN-blue)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6734225)
+[![Code](https://img.shields.io/badge/Code-MHL--AML-black)](https://github.com/OndiekiFrank/MHL-AML)
+[![Status](https://img.shields.io/badge/ACM%20ICAIF%202026-Under%20Review-orange)](https://icaif2026.org)
 
-### 🔹 Cloud Computing  
-AWS (EC2, S3, Lambda) · GCP (Basics) · CI/CD Pipelines · Server Provisioning  
+| Finding | Result |
+|---|---|
+| Baseline AML agent F1 | 0.919 |
+| After QTPI attack (50 docs) | 0.014 — **98.4% degradation** |
+| Log anomalies detected | **Zero** |
+| MHL detection rate | **100%** |
+| MHL latency | **22.6ms p99** |
 
-### 🔹 Analytics & BI  
-Power BI · Tableau · Excel · Data Visualization · KPI Dashboards · SQL  
-
-### 🔹 Databases & Pipelines  
-PostgreSQL · MySQL · Oracle · ETL · Data Cleaning · Airflow · Data Warehousing  
-
-### 🔹 OS & Dev Environments  
-Linux (Ubuntu) · Windows · Shell Scripting · Conda · VS Code · Git  
-
----
-
-## 🚀 **Highlighted Projects**  
-
-### 🔧 [Yolo DevOps Pipeline – GitHub](https://github.com/OndiekiFrank/Yolo)  
-- Architected an end-to-end DevOps pipeline to deploy a scalable e-commerce platform on **AWS EKS**.  
-- Orchestrated microservices using **Kubernetes**, integrated **Jenkins CI/CD**, and provisioned cloud infrastructure with **Ansible**.  
-- Implemented **Docker containerization**, persistent storage with **AWS EBS**, and Git-based deployment workflows.
-
-### ⚙️ [Darkroom CI/CD Automation – GitHub](https://github.com/OndiekiFrank/gallery)  
-- Engineered a photo management system with automated testing and deployment using **Jenkins**.  
-- Leveraged **Docker**, **Slack** for notifications, and **AWS Lambda** for serverless automation.  
-- Enabled fully automated DevOps workflows from code commit to production.
-
-### 📊 [Movie Insights Data Analysis – GitHub](https://github.com/OndiekiFrank/Movie-Insights-Analysis)  
-- Conducted in-depth EDA on 1,000+ movie records using **Pandas**, **Seaborn**, and **Matplotlib**.  
-- Delivered insights on revenue, popularity, and production patterns for strategic media investment decisions.  
-- Presented results via compelling, interactive visualizations.
-
-### 🧠 [Titanic ML Project – GitHub](https://github.com/OndiekiFrank/Project_Titanic)  
-- Built and evaluated survival prediction models using **Logistic Regression** and **Random Forest**.  
-- Performed data cleaning, feature engineering, and visual storytelling in a clean, documented notebook.  
-- Emphasized model interpretability and performance tuning.
+The attack exploits the retrieval corpus layer of deployed RAG agents — an attack surface ungoverned by NIST AI RMF, OWASP LLM Top 10, or MITRE ATLAS.
 
 ---
 
-## 📫 **Let’s Connect**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/frankline-ondieki-39a61828a/)  
-- 📩 [ondiekifrank021@gmail.com](mailto:ondiekifrank021@gmail.com)  
-- 💼 [Portfolio Repository](https://github.com/OndiekiFrank/portfolio) — Explore my DevOps, ML, and BI projects!
+## Currently
+
+- 🎓 Incoming **Cyber Security Analytics** student — Mohawk College, Hamilton, Ontario, Canada (September 2026)
+- 📄 Paper under peer review at **ACM ICAIF 2026**, Milan, Italy (notification September 27)
+- 🎤 Talk submitted to **BSides Toronto 2026**, October 3
+- 🔬 **ORCID:** [0009-0008-3483-0025](https://orcid.org/0009-0008-3483-0025)
 
 ---
 
-> 🔍 **Looking to contribute to impactful DevOps and AI infrastructure projects while learning from world-class engineering teams. Open to internships, remote roles, and freelance engagements.**
+## Research Interests
+Adversarial Machine Learning
+RAG Security and Corpus Integrity
+LLM Security and Prompt Injection
+AI Governance in Financial Systems
+Trustworthy AI for Regulated Environments
+Financial Crime Compliance Technology
 
 ---
+
+## Technical Skills
+
+**AI Security**
+`Adversarial ML` `Prompt Injection` `RAG Security` `Red Teaming` `Model Robustness`
+
+**Machine Learning**
+`Python` `PyTorch` `TensorFlow` `LangChain` `FAISS` `Sentence Transformers`
+
+**Cybersecurity** *(Mohawk College — September 2026)*
+`Network Security` `Penetration Testing` `Digital Forensics` `Cloud Security` `SIEM`
+
+**Data and MLOps**
+`FastAPI` `Docker` `AWS` `PostgreSQL` `Apache Airflow` `Power BI`
+
+---
+
+## Professional Background
+
+- **AI & ML Engineer** — Africa Risk Management and Compliance Partners (ARMC)
+  Production ML systems for Equity Bank Kenya and Commercial Bank of Ethiopia
+  Credit risk agents (88%+ accuracy), AML/fraud detection, graph-based systemic risk modelling
+
+- **Business Intelligence Analyst Intern** — Absa Bank Kenya
+  Power BI/Tableau dashboards adopted by 3 departments, 40% faster reporting
+
+- **BSc Economics and Statistics with IT** — Maseno University (Second Class Upper Honours, 2024)
+- **Data Science Diploma** — Moringa School (91.7% average, all Grade A, 2025)
+
+---
+
+## Recognition
+
+- 🏆 **Top 100 Rising AI Developers in Africa 2025** — UNDP, African Development Bank, Microsoft, Meta
+- 🎤 **Chairperson** — Moringa School Alumni Board (13,000+ graduates, 30 countries)
+- 🏛️ **Governing Council Secretariat** — Compliance Society of Kenya
+
+---
+
+## Pinned Repository
+
+👉 **[MHL-AML](https://github.com/OndiekiFrank/MHL-AML)** — Full experimental code for the CMPP paper. Run the attack and defense experiments yourself.
+
+---
+
+## Connect
+
+📧 ondiekifrank021@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/frankline-ondieki-39a61828a/)
+📄 [SSRN Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6734225)
+🔬 [ORCID](https://orcid.org/0009-0008-3483-0025)
+
+---
+
+*If you work in AI security, financial sector cybersecurity, or RAG systems — I would love to connect.*
